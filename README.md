@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Devagg546/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Devagg546/LeetCode/tree/master/0283-move-zeroes) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Devagg546/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Devagg546/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Binary Search
 |  |
