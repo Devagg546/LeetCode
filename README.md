@@ -9,6 +9,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devagg546/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devagg546/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Devagg546/LeetCode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Devagg546/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Devagg546/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Devagg546/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Binary Search
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Devagg546/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Devagg546/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
